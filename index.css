@@ -32,6 +32,13 @@ h5 {
     color: black;
 }
 
+h5 {
+    text-align: center;
+    font-family: sans-serif;
+    margin-top:0em;
+    color: black;
+}
+
 .row,
 .group,
 .grouped {
